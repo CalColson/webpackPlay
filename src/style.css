@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'myFont';
+  src: url('../assets/Super Natural - Demo.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  background-color: red;
+  font-family: 'myFont';
+  color: white;
+}
